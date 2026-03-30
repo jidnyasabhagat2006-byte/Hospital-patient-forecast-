@@ -1,1 +1,4 @@
-networkx
+streamlit
+numpy
+pandas
+matplotlib
